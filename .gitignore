@@ -31,3 +31,9 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# C++ compile object files
+*.so
+*.o
+*.obj
+*.dylib
