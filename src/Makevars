@@ -1,1 +1,0 @@
-PKG_CXXFLAGS=-mavx2
